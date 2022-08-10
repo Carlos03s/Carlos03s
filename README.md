@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Langs:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos03s)](https://github.com/Carlos03s/github-readme-stats)
+
+
+
 <!--
 **Carlos03s/Carlos03s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
