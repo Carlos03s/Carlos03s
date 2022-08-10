@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Langs:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos03s)](https://github.com/Carlos03s/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos03s&count_private=true)
 
 
 
